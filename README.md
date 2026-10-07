@@ -12,6 +12,7 @@ O projeto consiste em um sistema simples para ajudar a profissional de Lash Desi
 Para o armazenamento das informações, utilizamos o banco de dados SQLite, por ser uma opção leve, simples de configurar e que não precisa de um servidor complexo rodando em segundo plano.
 
 📸 Protótipo e Telas do Projeto
+<img width="1035" height="711" alt="image" src="https://github.com/user-attachments/assets/93162893-6989-4bd6-9afd-5311ef88a461" />
 
 🗄️ Banco de Dados (SQLite)
 
@@ -19,5 +20,5 @@ Para o armazenamento das informações, utilizamos o banco de dados SQLite, por 
 
 🖥️ Projeto Final / Interface
 
-<img width="1035" height="711" alt="image" src="https://github.com/user-attachments/assets/93162893-6989-4bd6-9afd-5311ef88a461" />
+
 
