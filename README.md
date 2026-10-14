@@ -20,5 +20,7 @@ Para o armazenamento das informações, utilizamos o banco de dados SQLite, por 
 🖥️ Projeto Final / Interface
 <img width="1084" height="740" alt="image" src="https://github.com/user-attachments/assets/ab24cab0-f076-4caf-be62-a1521718c8e3" />
 
+Diagramas MER e entidades.
+<img width="3200" height="2220" alt="mer_chen_studio" src="https://github.com/user-attachments/assets/d46c6838-f3d0-44db-b241-53d0152bf7de" />
 
-
+<img width="1009" height="533" alt="image" src="https://github.com/user-attachments/assets/732d4ffe-d182-4b35-91e1-471129e52ef2" />
